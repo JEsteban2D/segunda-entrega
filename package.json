@@ -1,0 +1,14 @@
+{
+  "name": "semana2",
+  "version": "1.0.1",
+  "description": "Primer Trabajo-Segunda semana",
+  "main": "Principal2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Esteban juan_cossio@elpoli.edu.co",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
